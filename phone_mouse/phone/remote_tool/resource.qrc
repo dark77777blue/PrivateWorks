@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/">
+        <file>good_images/1.png</file>
+        <file>good_images/2.png</file>
+        <file>good_images/iOS Styled Icons (1).png</file>
+        <file>good_images/iOS Styled Icons (2).png</file>
+        <file>good_images/iOS Styled Icons (3).png</file>
+        <file>good_images/iOS Styled Icons (4).png</file>
+        <file>good_images/iOS Styled Icons (5).png</file>
+        <file>good_images/iOS Styled Icons (6).png</file>
+        <file>good_images/iOS Styled Icons (7).png</file>
+        <file>good_images/iOS Styled Icons (8).png</file>
+        <file>good_images/iOS Styled Icons (9).png</file>
+        <file>good_images/iOS Styled Icons (10).png</file>
+        <file>good_images/iOS Styled Icons (11).png</file>
+        <file>good_images/iOS Styled Icons (12).png</file>
+        <file>good_images/iOS Styled Icons (13).png</file>
+        <file>good_images/iOS Styled Icons (14).png</file>
+        <file>good_images/iOS Styled Icons (15).png</file>
+        <file>good_images/iOS Styled Icons (16).png</file>
+        <file>good_images/iOS Styled Icons (17).png</file>
+        <file>good_images/iOS Styled Icons (18).png</file>
+        <file>good_images/iOS Styled Icons (19).png</file>
+        <file>good_images/iOS Styled Icons (20).png</file>
+        <file>good_images/iOS Styled Icons (21).png</file>
+        <file>good_images/iOS Styled Icons (22).png</file>
+        <file>good_images/iOS Styled Icons (23).png</file>
+        <file>good_images/iOS Styled Icons (24).png</file>
+        <file>good_images/iOS Styled Icons (25).png</file>
+        <file>good_images/iOS Styled Icons (26).png</file>
+        <file>good_images/iOS Styled Icons (27).png</file>
+        <file>good_images/iOS Styled Icons (28).png</file>
+        <file>good_images/iOS Styled Icons (29).png</file>
+        <file>good_images/iOS Styled Icons (30).png</file>
+        <file>good_images/background1.png</file>
+        <file>good_images/cyclops.png</file>
+        <file>good_images/cyclops1.png</file>
+        <file>good_images/gougou_1.png</file>
+        <file>good_images/gougou_2.png</file>
+        <file>good_images/gougou_11.png</file>
+        <file>good_images/gougou_21.png</file>
+        <file>good_images/power.png</file>
+        <file>good_images/power1.png</file>
+        <file>good_images/rabbit.png</file>
+        <file>good_images/rabbit1.png</file>
+        <file>good_images/star_beast.png</file>
+        <file>good_images/star_beast1.png</file>
+        <file>good_images/yoda.png</file>
+        <file>good_images/yoda1.png</file>
+    </qresource>
+</RCC>

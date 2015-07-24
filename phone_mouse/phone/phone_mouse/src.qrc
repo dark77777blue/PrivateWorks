@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/power.png</file>
+        <file>images/power1.png</file>
+        <file>images/cyclops.png</file>
+        <file>images/cyclops1.png</file>
+        <file>images/gougou_1.png</file>
+        <file>images/gougou_2.png</file>
+        <file>images/gougou_11.png</file>
+        <file>images/gougou_21.png</file>
+        <file>images/rabbit.png</file>
+        <file>images/rabbit1.png</file>
+        <file>images/star_beast.png</file>
+        <file>images/star_beast1.png</file>
+        <file>images/yoda.png</file>
+        <file>images/yoda1.png</file>
+    </qresource>
+</RCC>

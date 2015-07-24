@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Remote_Dialog</class>
+ <widget class="QDialog" name="Remote_Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>353</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <spacer name="verticalSpacer">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>66</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="0">
+      <widget class="Advance_Button" name="advance_Button">
+       <property name="minimumSize">
+        <size>
+         <width>77</width>
+         <height>77</height>
+        </size>
+       </property>
+       <property name="Picture" stdset="0">
+        <pixmap resource="resource.qrc">:/good_images/iOS Styled Icons (1).png</pixmap>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="Advance_Button" name="advance_Button_2">
+       <property name="minimumSize">
+        <size>
+         <width>77</width>
+         <height>77</height>
+        </size>
+       </property>
+       <property name="Picture" stdset="0">
+        <pixmap resource="resource.qrc">:/good_images/iOS Styled Icons (11).png</pixmap>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="Advance_Button" name="advance_Button_3">
+       <property name="minimumSize">
+        <size>
+         <width>77</width>
+         <height>77</height>
+        </size>
+       </property>
+       <property name="Picture" stdset="0">
+        <pixmap resource="resource.qrc">:/good_images/iOS Styled Icons (12).png</pixmap>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="Advance_Button" name="advance_Button_4">
+       <property name="minimumSize">
+        <size>
+         <width>77</width>
+         <height>77</height>
+        </size>
+       </property>
+       <property name="Picture" stdset="0">
+        <pixmap resource="resource.qrc">:/good_images/iOS Styled Icons (13).png</pixmap>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <spacer name="verticalSpacer_2">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>66</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item>
+    <spacer name="verticalSpacer_3">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>66</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item>
+    <spacer name="verticalSpacer_4">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>66</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>Advance_Button</class>
+   <extends>QWidget</extends>
+   <header>advance_button.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="resource.qrc"/>
+ </resources>
+ <connections/>
+</ui>
